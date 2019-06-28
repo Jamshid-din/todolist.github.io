@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "Jamshid-din/todolist.github.io/static/css/main.8e2fea03.chunk.css",
-    "main.js": "Jamshid-din/todolist.github.io/static/js/main.d70bb745.chunk.js",
-    "main.js.map": "Jamshid-din/todolist.github.io/static/js/main.d70bb745.chunk.js.map",
-    "runtime~main.js": "Jamshid-din/todolist.github.io/static/js/runtime~main.bda67ca7.js",
-    "runtime~main.js.map": "Jamshid-din/todolist.github.io/static/js/runtime~main.bda67ca7.js.map",
-    "static/js/2.85ab41d6.chunk.js": "Jamshid-din/todolist.github.io/static/js/2.85ab41d6.chunk.js",
-    "static/js/2.85ab41d6.chunk.js.map": "Jamshid-din/todolist.github.io/static/js/2.85ab41d6.chunk.js.map",
-    "index.html": "Jamshid-din/todolist.github.io/index.html",
-    "precache-manifest.437559dcb0d15c1fb338585e1600d876.js": "Jamshid-din/todolist.github.io/precache-manifest.437559dcb0d15c1fb338585e1600d876.js",
-    "service-worker.js": "Jamshid-din/todolist.github.io/service-worker.js",
-    "static/css/main.8e2fea03.chunk.css.map": "Jamshid-din/todolist.github.io/static/css/main.8e2fea03.chunk.css.map"
+    "main.css": "/todolist.github.io/static/css/main.8e2fea03.chunk.css",
+    "main.js": "/todolist.github.io/static/js/main.d70bb745.chunk.js",
+    "main.js.map": "/todolist.github.io/static/js/main.d70bb745.chunk.js.map",
+    "runtime~main.js": "/todolist.github.io/static/js/runtime~main.6b6ded1c.js",
+    "runtime~main.js.map": "/todolist.github.io/static/js/runtime~main.6b6ded1c.js.map",
+    "static/js/2.85ab41d6.chunk.js": "/todolist.github.io/static/js/2.85ab41d6.chunk.js",
+    "static/js/2.85ab41d6.chunk.js.map": "/todolist.github.io/static/js/2.85ab41d6.chunk.js.map",
+    "index.html": "/todolist.github.io/index.html",
+    "precache-manifest.cfa70b732ac28e95db0d43e999890707.js": "/todolist.github.io/precache-manifest.cfa70b732ac28e95db0d43e999890707.js",
+    "service-worker.js": "/todolist.github.io/service-worker.js",
+    "static/css/main.8e2fea03.chunk.css.map": "/todolist.github.io/static/css/main.8e2fea03.chunk.css.map"
   }
 }
